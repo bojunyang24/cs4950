@@ -1,0 +1,8 @@
+FreeSound Source URL: https://freesound.org/people/ShadyDave/sounds/273205/
+Toggle Input: toggles between mic input and loop input
+Toggle Reverb: if reverbs parameters are all set to 0, sets everything to 0.5. There is a glitch where room size is unable to be set to 0.0 for some reason.
+		r.setSize(0.0) only sets it to 0.01. If any of the parameters are greater than 0 (for roomSize > 0.01) then resets all parameters to 0.0.
+reverb sliders: sets the corresponding parameter for reverb.
+
+*I changed the visualization to have bright green bars instead.
+*There's also a few print statements for debugging and showing which functions are being used for which buttons.

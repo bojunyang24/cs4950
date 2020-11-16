@@ -1,0 +1,5 @@
+I designed this assignment like a cassette player. I have a play, stop, fast forward, rewind, and reset button. 
+Each button, when pressed, gives an auditory confirmation that the button has been pressed. It's someone saying what the button does. 
+The piano sound file I got from freesounds at https://freesound.org/people/TheWorkingBamboo/sounds/257738/
+As an extra feature to test the endListener, I added a glide that can be used to set the position of the track by sliding it. It also prints out what time the glide is set to in milliseconds. 
+This glide plays sound when the track is playing but doesn't play sound when the track is not playing. 

@@ -1,0 +1,7 @@
+For my ducking, I reduced the volume of the background music and implemented a high pass filter. The background music ducks to 0.3 and the high pass filter cut off frequency is 600.
+I also set glide time when creating the gain glide to 1000ms so the background music gradually changes volume when transitioning between background music and voice1 and voice2. 
+
+Challenges:
+I also had trouble getting my voice.wav files to work. I recorded using my iphone which saves in .m4a. I opened the file in ocenaudio and saved as in .wav file
+I couldn't figure out how to return the background music to it's original volume after the voices played for a long time. I was using the method mentioned in class but it took me a while. 
+I set my high pass filter cut off frequency to 0 when the voiceover ended and that was causing the filter to do weird things to the loop causing it to become silent. I spent a lot of time trying to figure out why my loop disappeared even though I didn't not change it's gain anywhere else. 

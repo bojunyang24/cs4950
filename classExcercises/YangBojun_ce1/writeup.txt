@@ -1,0 +1,13 @@
+FreeSound Source URL: 
+
+
+
+--
+
+If you use a custom UGen (Unit Generator) for your exercise, describe it below:
+
+https://freesound.org/people/ShadyDave/sounds/273463/
+
+I chose a High Pass Filter for the additional UGen and the UI slider has a range of 0.0 to 21150.0 with a starting value of 200.0. 
+I chose this this filter because the low pass filter was not affecting my track in a very significant way so I tried using a high pass filter and increased the range.
+The filter is very noticeable around 2300.00

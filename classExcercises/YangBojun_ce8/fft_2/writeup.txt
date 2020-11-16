@@ -1,0 +1,12 @@
+FreeSound Source URL: https://www.youtube.com/watch?v=bAgmGZ9iQ2Y
+(MACINTOSH PLUS - FLORAL SHOPPE)
+
+--
+
+If you use a custom UGen (Unit Generator) for your exercise, describe it below:
+
+
+The extra UGen was a Reverb. The way you can control affect its sound is through controlling its early reverb level.
+
+I made the sketch visualize 512 bands because it visualized the whistle file better. Instead of a shape, I used the background to visualize the beats.
+I made the decrease of brightness of the beat visualizer slower so the screen wasn't flashing on and off rapidly.
